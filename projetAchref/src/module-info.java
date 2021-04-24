@@ -1,0 +1,3 @@
+module projetAchref {
+	requires junit;
+}
